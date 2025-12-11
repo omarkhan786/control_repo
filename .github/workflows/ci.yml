@@ -13,7 +13,7 @@ jobs:
 
       - uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.2'    # Update to your Ruby version
+          ruby-version: '3.2.2'    # Update to your Ruby version
           bundler-cache: true
 
       # Your other steps here…
